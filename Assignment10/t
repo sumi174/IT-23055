@@ -1,1 +1,7 @@
+| Feature     | Abstract Class                  | Interface                                   |
+| ----------- | ------------------------------- | ------------------------------------------- |
+| Methods     | Can be abstract or concrete     | Abstract by default; default/static allowed |
+| Variables   | Instance variables allowed      | Only constants (static final)               |
+| Inheritance | Single inheritance              | Multiple inheritance allowed                |
+| Use case    | Common functionality + contract | Just a contract for classes                 |
 
